@@ -17,7 +17,7 @@ Reputation is one solution to verifying identity in a decentralized system. Howe
 
 There are valid and valuable use cases for binding verified physical identities in a decentralized web-of-trust system. Is this really a problem, and if so, should we ignore it, integrate traditional CA verification methods, or find a new way to solve it?
 
-References:
+##References:
 [1] https://cabforum.org/wp-content/uploads/EV-V1_5_7.pdf
 [2] http://news.netcraft.com/archives/2015/10/12/certificate-authorities-issue-hundreds-of-deceptive-ssl-certificates-to-fraudsters.html
 [3] https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure
